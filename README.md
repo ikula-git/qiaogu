@@ -2,4 +2,4 @@
 
 
 
-![瞧股一个](https://github.com/ikula-git/qiaogu/blob/main/qiaogu1.jpg?raw=true
+![瞧股一个](https://github.com/ikula-git/qiaogu/blob/main/qiaogu1.jpg?raw=true)
